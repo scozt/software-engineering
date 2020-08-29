@@ -47,3 +47,9 @@ zu machen
     - den Code wiederzuverwenden (reusable)
     - robusten Code zu erstellen
   - ansonsten wird Code spröde, fragil und schwer zu pflegen
+
+### Single Responsibility ###
+- 1 Klasse = 1 Responsibility
+- die Klasse soll so klein wie möglich sein
+- große Klassen sollen in kleinere Klassen aufgesplittet werden
+- es sollte niemals mehr als einen Grund für eine Änderung geben
