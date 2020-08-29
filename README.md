@@ -53,3 +53,9 @@ zu machen
 - die Klasse soll so klein wie möglich sein
 - große Klassen sollen in kleinere Klassen aufgesplittet werden
 - es sollte niemals mehr als einen Grund für eine Änderung geben
+
+### Open/Close Principle ###
+- Klassen sind _offen_ für Erweiterungen
+- jedoch _geschlossen_ für Modifkationen
+- private Varialben: getters und setters nur nutzen wenn sie benötigt werden
+- benutze abstrakte Basisklassen wenn möglich
