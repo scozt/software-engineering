@@ -70,4 +70,7 @@ zu machen
 ### Interface Segregation Principle ###
 - großes Interface soll in fein abgestimmte Interfaces geteilt werden
 
-
+### Dependency Inversion Principle ###
+- Module höherer Ebenen sollten nicht von Modulen niedrigerer Ebenen abhängen
+- Module sollten von Abstraktionen abhängen und Abstraktionen sollten nicht von Details abhängen
+- Details sollten von Abstraktionen abhängen
