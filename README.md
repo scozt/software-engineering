@@ -66,3 +66,8 @@ zu machen
 - verstöße scheitern häufig beim "ist ein"-Test
   - ein Quadrat "ist ein" Rechteck
   - jedoch ein Rechteck ist kein Quadrat
+  
+### Interface Segregation Principle ###
+- großes Interface soll in fein abgestimmte Interfaces geteilt werden
+
+
