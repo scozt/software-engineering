@@ -59,3 +59,10 @@ zu machen
 - jedoch _geschlossen_ für Modifkationen
 - private Varialben: getters und setters nur nutzen wenn sie benötigt werden
 - benutze abstrakte Basisklassen wenn möglich
+
+### Liskov Substitution Principle ###
+- Objekte in einem Programm können durch Instanzen ihrer Subtypen ersetzt werden
+- ohne die Korrektheit des Programms zu verändern
+- verstöße scheitern häufig beim "ist ein"-Test
+  - ein Quadrat "ist ein" Rechteck
+  - jedoch ein Rechteck ist kein Quadrat
