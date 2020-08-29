@@ -37,3 +37,13 @@ zu machen
   
   -	erlaubt Attribute und Methoden auszutauschen
 </details>
+
+## SOLID Prinzipien ##
+- Objektorientierte Programmierung ist ein mächtiges Konzept
+- führt jedoch nicht immer zu hochwertiger Software
+- SOLID Prinzipien fokussieren sich auf dependency management
+  - sofern sie berücksichtigt werden wird es einfacher
+    - den Code zu pflegen (maintainable)
+    - den Code wiederzuverwenden (reusable)
+    - robusten Code zu erstellen
+  - ansonsten wird Code spröde, fragil und schwer zu pflegen
